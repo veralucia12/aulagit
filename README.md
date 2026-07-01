@@ -12,3 +12,7 @@ ele será modificado nas duas branches
 e após essa modificação
 ele vai apresentar
 erro de conflito.
+## linguagem c
+
+A linguagem c é uma 
+ótima linguagem para iniarmos na programação!
